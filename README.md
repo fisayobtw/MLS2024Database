@@ -20,3 +20,7 @@ Finally the seventh option lets the user exit the program.
 
 We have great error catching within our program to limit any confusion and keep the process fun, easy, and simple.
 
+
+Video: https://www.loom.com/share/b645080815b643f0a92111acca271a1b?sid=7aa7bd65-bd88-4a96-846d-2bdd8831ec6b
+
+
